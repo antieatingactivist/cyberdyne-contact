@@ -27,18 +27,20 @@ nav {
     display: inline-block;
     margin-right: 20px;
     float: right;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 nav ul li {
     display: inline-block;
     margin-left: 25px;
+    vertical-align: middle;
 
 }
 
 nav a {
     color: #ffffff;
     text-decoration: none;
+    font-size: 20px;
 }
 
 figcaption {
@@ -48,6 +50,10 @@ figcaption {
 
 footer {
     text-align: center;
+    background-color: #3b3838;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
 
 textarea {
@@ -63,12 +69,17 @@ textarea {
      display: block;
      margin-left: auto;
      margin-right: auto;
-     width: 50%;
+     width: 60%;
+     
  }
 
  .forms {
 
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+
  }
