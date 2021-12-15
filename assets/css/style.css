@@ -1,0 +1,30 @@
+* {
+    color: white;
+}
+
+body {
+    background-color: #222222;
+    
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    
+}
+h1 {
+    display: inline-block;
+    padding-top: 10px;
+    
+}
+
+nav {
+    display: inline-block;
+    margin-right: 20px;
+    float: right;
+    padding-top: 10px;
+}
+
+footer {
+    text-align: center;
+}
